@@ -6,43 +6,46 @@ categories: Frame grouping
 ---
 The algorithm automatically groups any area with correct corridors into sub areas such that their DC/AC ratio would be within the bounds defined in settings.
 
----
-Quick execution for massive parks
+<details>
+<summary><strong>Quick execution for massive parks</strong></summary>
 
 <video width="100%" preload="metadata" muted controls loop>
 <source src="/assets/huge_park.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-[//]: # (---)
+</details>
 
-[//]: # (Support for multiple frame presets per single area)
+<details>
+<summary><strong>Support for multiple frame presets per single area</strong></summary>
 
-[//]: # (<video width="100%" preload="metadata" muted controls loop>)
+<video width="100%" preload="metadata" muted controls loop>
+    <source src="/assets/multi_presets.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
-[//]: # (    <source src="/assets/multi_presets.mp4" type="video/mp4">)
+</details>
 
-[//]: # (    Your browser does not support the video tag.)
+<details>
+<summary><strong>Group shape correlates with the Azimuth (rotation) of the frames</strong></summary>
 
-[//]: # (</video>)
+<video width="100%" preload="metadata" muted controls loop>
+    <source src="/assets/azimuth.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
-[//]: # ()
-[//]: # (---)
+</details>
 
-[//]: # (Group shape correlates with the Azimuth &#40;rotation&#41; of the frames)
+<details>
+<summary><strong>Multiple selection</strong></summary>
 
-[//]: # (<video width="100%" preload="metadata" muted controls loop>)
+<!-- Add content here for multiple selection -->
 
-[//]: # (    <source src="/assets/azimuth.mp4" type="video/mp4">)
+</details>
 
-[//]: # (    Your browser does not support the video tag.)
+<details>
+<summary><strong>Custom block reference</strong></summary>
 
-[//]: # (</video>)
+<!-- Add content here for custom block reference -->
 
-
-
----
-Multiple selection
-
----
-Custom block reference
+</details>
