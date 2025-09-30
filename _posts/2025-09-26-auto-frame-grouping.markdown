@@ -7,7 +7,7 @@ categories: Frame grouping
 
 We had a friction point that our users have been facing for a long time: grouping frames manually is tedious and time-consuming.
 So I've designed and implemented an algorithm that automatically groups frames for power stations based on multiple criteria like a DC/AC ratio range,
-azimuth, corridors, shape of the areas, frame capacity, AC power of transformers or central inverters. Then it places power stations such that the amount of needed cabling is minimized.
+azimuth, corridors, shapes of the selected areas, frame capacity, AC power of transformers or central inverters. Then it places power stations such that the amount of needed cabling is minimized.
 
 Our next big milestone is to fully automate the design of solar parks, and this algorithm is a significant step towards that goal.
 I've designed it so that it would be easy to extend and adapt to new requirements in the future as it is capable of grouping anything that has a capacity.
