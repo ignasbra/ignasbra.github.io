@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "DLL merge"
+title:  "Parallel harness generation"
 date:   2025-08-20 16:11:09 +0300
-categories: Devops
+categories: Harness
 ---
 
 **Result**: GM release builds are 95% cheaper now.

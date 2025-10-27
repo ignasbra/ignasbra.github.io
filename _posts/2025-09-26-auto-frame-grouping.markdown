@@ -5,6 +5,11 @@ date:   2025-09-26 16:11:09 +0300
 categories: Frame grouping
 ---
 
+**Result**: The feature was a big hit in the RE+ event. It received praise from our Product and Sales people alike.
+It hasn't yet been released to customers, because the company is currently deciding how to package it.
+
+**Involvement**: I was the sole developer of this feature.
+
 We had a friction point that our users have been facing for a long time: grouping frames manually is tedious and time-consuming.
 So I've designed and implemented an algorithm that automatically groups frames for power stations based on multiple criteria like a DC/AC ratio range,
 azimuth, corridors, shapes of the selected areas, frame capacity, AC power of transformers or central inverters. Then it places power stations such that the amount of needed cabling is minimized.
