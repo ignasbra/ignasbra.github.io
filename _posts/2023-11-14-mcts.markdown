@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Monte Carlo Tree Search for terrain following tracker generation"
+date:   2023-11-14 16:11:09 +0300
+categories: Generation
+---
+
+**Result**: We were falling behind our competition in optimal frame generation. There are countless ways how a terrain
+following tracker row could be created, only a small subset of them are good enough. After some prototyping I discovered
+that we could use the Monte Carlo Tree Search algorithm to generate the frames. This allowed us to catch up and support
+terrain following tracker frames.
+
+**Involvement**: I did the research and discovered this approach. It was later implemented by a different developer.

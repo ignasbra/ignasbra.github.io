@@ -7,7 +7,7 @@ categories: Devops
 
 **Result**: Increased awareness of 'Awaiting for response' Jira tickets in the support team, leading to faster response times and improved customer satisfaction.
 
-**Involvement**: Full ownership.
+**Involvement**: Full ownership. Proactively made over lunch breaks.
 
 ![Pinger Screenshot]({{ site.baseurl }}/assets/pinger.png)
 

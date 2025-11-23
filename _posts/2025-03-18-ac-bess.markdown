@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "AC battery storage (BESS)"
+date:   2025-03-18 16:11:09 +0300
+categories: Electrical
+---
+
+**Result**: BESS systems are gaining a lot of traction in the industry. Solar engineers are asked to create and evaluate
+projects prospectively and for construction. Having tools that allows them to do these tasks easily will be helpful and
+valuable to them.
+
+**Involvement**: I was the technical owner of the feature. I manged stakeholders
+and their requirements and distributed work among developers and QA. I've also implemented a large part of the feature.
+
+Feature included:
+* BESS placement
+* Single line diagram expansion
+* Labeling and device overview
+* Bill of material expansion
+* Yield export
+* Copy/Paste support
+* UI changes
